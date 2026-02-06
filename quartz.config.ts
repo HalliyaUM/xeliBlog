@@ -15,8 +15,8 @@ const config: QuartzConfig = {
     analytics: {
       provider: null,
     },
-    locale: "en-AU",
-    baseUrl: "xelios.monster/blog",
+    locale: "en-US",
+    baseUrl: "xelios.monster",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -79,7 +79,6 @@ const config: QuartzConfig = {
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
-      Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
