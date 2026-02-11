@@ -13,6 +13,3 @@ Mostly uploading random dumps of what I've learnt & adventuring with compsci and
 
 --
 
-If you want some food for OSINTing me...
-
-[LinkedIn](https://www.linkedin.com/in/halliya-um/)  [Github](https://github.com/HalliyaUM)
