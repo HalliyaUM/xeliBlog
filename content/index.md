@@ -7,8 +7,10 @@ tags:
 ₍^. .^₎⟆⋆˚☆˖°⋆｡° ✮˖⊹⋆.˚ .* ۶ৎ ₊˚⊹♡
 
 
-### I am Halliya and welcome to my page ;)
+## Welcome to my page ;)
 
-Mostly uploading random dumps of what I've learnt & adventuring with compsci and cybersecurity stuff! Hope you enjoy x 
+I am Halliya and mostly uploading random dumps of what I've learnt & adventuring with compsci and cybersecurity stuff! 
+
+Hope you enjoy x 
 
 
