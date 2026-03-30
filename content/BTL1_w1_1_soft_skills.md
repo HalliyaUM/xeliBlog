@@ -3,10 +3,9 @@ title: BTL1 Notes Week 1-1 Soft skills
 tags:
   - BTL1
 ---
-# Security Fundamentals
-### Soft Skills
+# Security Fundamentals; Soft Skills
 
-1. Communication
+#### Communication
 
 All roles in cybersecurity require a high level of both written/verbal communication.
 
@@ -37,7 +36,7 @@ a.k.a. **Keep It Simple Stupid**
 It's often better to talk dumb to someone than use jargon and specialist vocabulary that they won't understand, which could give you a wrong answer and take up more time.
 
 
-2. Teamwork
+#### Teamwork
 In cybersecurity, it's all about people working together.
 - Go to conferences
 - Do CTFs
@@ -45,7 +44,7 @@ In cybersecurity, it's all about people working together.
 
 
 
-3. Problem Solving
+#### Problem Solving
 
 Problems happen everyday - things break, new threats arise, and attack occur.
 
@@ -64,7 +63,7 @@ How to improve problem solving skill?
 
 
 
-4. Time Management
+#### Time Management
 
 My ability to priotise tasks and meet deadlines, and this requires good organisation.
 
@@ -78,7 +77,7 @@ My ability to priotise tasks and meet deadlines, and this requires good organisa
 - Using calendar obviously
 
 
-5. Motivation
+#### Motivation
 
 Cybersecurity changes every second - new EVERYTHING and it won't stop, and never will.
 
@@ -87,7 +86,13 @@ It's a race between attackers and defenders to stay on top.
 
 OKAY PAUSE I HAVE TO QUOTE THIS
 ```
-It's worth mentioning that being "motivated" doesn't mean you run a blog and post something every day of the year. It doesn't mean that you have no social life and spend every second outside of work doing research and developing your cyber skills. You're human. It's extremely important to have a work-life balance, making sure you have time for yourself, friends, and family. Doing this will help with mental well-being, which will have a positive impact on your work life.
+It's worth mentioning that being "motivated" doesn't mean you run a blog and post something every day of the year. 
+
+It doesn't mean that you have no social life and spend every second outside of work doing research and developing your cyber skills. 
+
+You're human. It's extremely important to have a work-life balance, making sure you have time for yourself, friends, and family. 
+
+Doing this will help with mental well-being, which will have a positive impact on your work life.
 ```
 
 
@@ -99,7 +104,7 @@ Keep work-life balance, make sure I am not burnout to do any work!
 
 
 
-6. Mental Health
+#### Mental Health
 
 Due to nature of cybersecurity roles, it is totally possible to develop and experience imposter syndrome and burnout.
 
