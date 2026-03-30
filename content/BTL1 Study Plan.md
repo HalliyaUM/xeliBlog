@@ -1,3 +1,10 @@
+---
+title: BTL1 Study Plan
+tags:
+  - BTL1
+---
+
+
 ![[Screenshot 2026-03-30 at 13.54.44.png]]
 ## Goal
 
