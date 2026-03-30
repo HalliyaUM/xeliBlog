@@ -3,12 +3,12 @@ title: BTL1 Study Plan
 tags:
   - BTL1
 ---
+![cat_meme](./carr.png)
 
 
-![[Screenshot 2026-03-30 at 13.54.44.png]]
 ## Goal
 
-1. To pass lol
+1. To pass lol 
 2. Gain good, solid understanding of DFIR/blue teaming workflow
 3. Better documentation than ever. Hence, making notes on my blog ✌️
 
