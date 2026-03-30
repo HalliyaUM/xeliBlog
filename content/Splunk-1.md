@@ -47,16 +47,16 @@ docker run --platform=linux/amd64 \
 
 Then, you can check if the container is up using `docker ps -a`.
 
-![dockerpsa](./docker-ps-a.png)
+![dockerpsa](./image/docker-ps-a.png)
 
 If unsure if it's crashing or not, use `docker logs -f so1` to check if everything is building without error :)!
 
-![log](./build-log.png)
+![log](./image/build-log.png)
 
 See how everything setted up without failed task?
 Now it's time to leave this behind, and go check localhost:8000.
 
 ## localhost
-![main_page](./localhost.png)
+![main_page](./image/localhost.png)
 
 and VOILA! Here we are, the main page of Splunk.

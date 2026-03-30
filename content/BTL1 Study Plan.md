@@ -3,7 +3,7 @@ title: BTL1 Study Plan
 tags:
   - BTL1
 ---
-![cat_meme](./carr.png)
+![cat_meme](./image/carr.png)
 
 
 ## Goal
