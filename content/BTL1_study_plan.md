@@ -34,19 +34,22 @@ tags:
 
 ## Reflection
 
-| Week | Date             | Completed | OMW | SNAG | Note |
-| :--: | ---------------- | --------- | --- | ---- | ---- |
-|  1   | 30 April - 5 May |           |     |      |      |
-|  2   |                  |           |     |      |      |
-|  3   |                  |           |     |      |      |
-|  4   |                  |           |     |      |      |
-|  5   |                  |           |     |      |      |
-|  6   |                  |           |     |      |      |
-|  7   |                  |           |     |      |      |
-|  8   |                  |           |     |      |      |
-|  9   |                  |           |     |      |      |
-|  10  |                  |           |     |      |      |
-|  11  |                  |           |     |      |      |
-|  12  |                  |           |     |      |      |
+| Week | Date     | Completed                                                                       | OMW               | SNAG | Note                                                                                        |
+| :--: | -------- | ------------------------------------------------------------------------------- | ----------------- | ---- | ------------------------------------------------------------------------------------------- |
+|  1   | 30 April | - Introduction to Security Fundamentals<br>- Soft Skills<br>- Security Controls | Endpoint Security | N/A  | Need more information about endpoint security, especially Anti-viruses and malware patterns |
+|      | 31 April |                                                                                 |                   |      |                                                                                             |
+|      |          |                                                                                 |                   |      |                                                                                             |
+|      |          |                                                                                 |                   |      |                                                                                             |
+|  2   |          |                                                                                 |                   |      |                                                                                             |
+|  3   |          |                                                                                 |                   |      |                                                                                             |
+|  4   |          |                                                                                 |                   |      |                                                                                             |
+|  5   |          |                                                                                 |                   |      |                                                                                             |
+|  6   |          |                                                                                 |                   |      |                                                                                             |
+|  7   |          |                                                                                 |                   |      |                                                                                             |
+|  8   |          |                                                                                 |                   |      |                                                                                             |
+|  9   |          |                                                                                 |                   |      |                                                                                             |
+|  10  |          |                                                                                 |                   |      |                                                                                             |
+|  11  |          |                                                                                 |                   |      |                                                                                             |
+|  12  |          |                                                                                 |                   |      |                                                                                             |
 
    
