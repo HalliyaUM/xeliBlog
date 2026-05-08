@@ -1,5 +1,5 @@
 ---
-title: BTL1 Notes Week 1-1 Soft skills
+title: BTL1 Notes 1 Soft skills
 tags:
   - BTL1
 ---
